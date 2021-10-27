@@ -1,0 +1,4 @@
+period: 150
+path:
+  source: /home/valio/dev/camel/input
+  destination: /home/valio/dev/camel/output
